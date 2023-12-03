@@ -1,2 +1,2 @@
 # Student-management
-Student management is web application craeted wit Laravel Framework
+Student management is web application craeted with Laravel Framework
